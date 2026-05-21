@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ivelly42.github.io/ai-agent-npx-team-request-template/sitemap.xml
+
