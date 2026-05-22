@@ -5,9 +5,13 @@
   "template": "https://ivelly42.github.io/ai-agent-npx-team-request-template/NPX_TEAM_REQUEST_TEMPLATE.md",
   "repository": "https://github.com/ivelly42/ai-agent-npx-team-request-template",
   "main_product": "https://ivelly42.github.io/agent-ops-command-center/",
+  "primary_request_url": "https://ivelly42.github.io/agent-ops-command-center/team-request-url.html",
+  "team_checkout_request_page": "https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html",
   "npm_preview_docs": "https://ivelly42.github.io/agent-ops-command-center/npm-preview.md",
   "team_request_discussion": "https://github.com/ivelly42/agent-ops-command-center/discussions/11",
   "payment_ready_request": "https://github.com/ivelly42/agent-ops-command-center/issues/new?template=payment-ready.yml",
+  "checkout_status": "https://ivelly42.github.io/agent-ops-command-center/checkout-status.json",
+  "metrics": "https://ivelly42.github.io/agent-ops-command-center/metrics/status.json",
   "command": "npx github:ivelly42/agent-ops-command-center --team-request-url",
   "markdown_command": "npx github:ivelly42/agent-ops-command-center --team-request-markdown",
   "team_license_price_usd": 203,
@@ -24,4 +28,3 @@
     "Agent Ops Command Center"
   ]
 }
-

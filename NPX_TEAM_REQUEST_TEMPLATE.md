@@ -36,9 +36,12 @@ Do not use this as payment proof. It is purchase intent only.
 ## Links
 
 - Main product: https://ivelly42.github.io/agent-ops-command-center/
+- Primary $203 team request URL: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+- Fast team checkout request page: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
 - NPM preview docs: https://ivelly42.github.io/agent-ops-command-center/npm-preview.md
 - Team request CLI Discussion: https://github.com/ivelly42/agent-ops-command-center/discussions/11
 - Payment-ready request form: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=payment-ready.yml
+- Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 - Metrics: https://ivelly42.github.io/agent-ops-command-center/metrics/status.json
 
 ## Revenue Rule
@@ -46,4 +49,3 @@ Do not use this as payment proof. It is purchase intent only.
 Revenue is not counted from this repository, page views, NPX output, generated URLs, stars, forks, Discussions, or issue intent.
 
 Gross revenue is counted only after checkout, receipt, payout, or seller-dashboard evidence exists.
-

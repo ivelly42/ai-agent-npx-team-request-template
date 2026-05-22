@@ -7,9 +7,12 @@ Links:
 - Landing page: https://ivelly42.github.io/ai-agent-npx-team-request-template/
 - NPX team request template: https://ivelly42.github.io/ai-agent-npx-team-request-template/NPX_TEAM_REQUEST_TEMPLATE.md
 - Main product: https://ivelly42.github.io/agent-ops-command-center/
+- Primary $203 team request URL: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+- Fast team checkout request page: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
 - NPM preview docs: https://ivelly42.github.io/agent-ops-command-center/npm-preview.md
 - Team request CLI Discussion: https://github.com/ivelly42/agent-ops-command-center/discussions/11
 - Payment-ready request form: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=payment-ready.yml
+- Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 
 ## Command
 
@@ -34,4 +37,3 @@ One confirmed team payment can clear the `$200` public launch target after real 
 This mirror, NPX output, generated URLs, Discussions, stars, forks, and issue intent are not revenue.
 
 Gross revenue is counted only after checkout, receipt, payout, or seller-dashboard evidence exists.
-
